@@ -1,0 +1,12 @@
+#define INPUT_EV_KEY 0x01
+#define INPUT_EV_REL 0x02
+#define INPUT_EV_ABS 0x03
+#define INPUT_EV_MSC 0x04
+#define INPUT_EV_VENDOR_START 0xf0
+#define INPUT_EV_VENDOR_STOP 0xff
+
+#define INPUT_REL_X 0x00
+#define INPUT_REL_Y 0x01
+#define INPUT_REL_WHEEL 0x08
+#define INPUT_REL_HWHEEL 0x06
+#define INPUT_REL_MISC 0x09
